@@ -1,9 +1,7 @@
-<img with="128px" height="128px">![image](IntroduceElements/images/icon.png)</img>
+<img src="IntroduceElements/Images/icon.png" with="128px" height="128px">
 
 # CartaUI
 Carta UI Design Support Library
-
-
 
 # Contributor
 * Carta UI Designer [Luminon Canoness](http://github.com/Luminon)
